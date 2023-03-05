@@ -1,0 +1,9 @@
+certifi==2022.12.7
+chardet==4.0.0
+charset-normalizer==3.0.1
+future==0.18.3
+googlesearch-python==1.1.0
+idna==2.10
+python-whois==0.8.0
+soupsieve==2.4
+urllib3==1.26.14
